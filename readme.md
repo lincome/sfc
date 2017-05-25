@@ -6,8 +6,13 @@ laravel5.4+vue2.0开发的顺风车及后台,前后端分离,RESTful架构,RESTf
 
 ## 项目脑图
 
-![项目脑图](/顺风车.png)
+![项目脑图](images/顺风车.png)
 
+## 效果图
+
+![效果图](images/1.png)
+
+![效果图](images/2.png)
 
 ## 项目依赖
 
